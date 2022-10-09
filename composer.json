@@ -1,0 +1,16 @@
+{
+    "name": "simosfasouliotis/image-to-webp",
+    "description": "A laravel package to convert and serve webp images derived from other image formats.",
+    "autoload": {
+        "psr-4": {
+            "SimosFasouliotis\\ImageToWebp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Simos Fasouliotis",
+            "email": "sf@codepress.gr"
+        }
+    ],
+    "require": {}
+}
