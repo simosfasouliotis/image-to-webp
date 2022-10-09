@@ -2,8 +2,6 @@
 
 namespace SimosFasouliotis\ImageToWebp;
 
-use Illuminate\Support\Facades\Http;
-
 /**
  * Class ImageToWebp
  *
@@ -15,6 +13,6 @@ class ImageToWebp {
      */
     public function index(): string
     {
-        return 'hi man';
+        return 'For future versions when we need more functionality';
     }
 }
